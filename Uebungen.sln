@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonOO-Sharings", "NonOO-Sharings\NonOO-Sharings.csproj", "{8FAD0635-D42E-4C31-A425-D452CAA706D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigm_Objects-Classes", "Paradigm_Objects-Classes\Paradigm_Objects-Classes.csproj", "{C015C986-D337-425E-9CA5-D56E15AE51B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigm_Messaging", "Paradigm_Messaging\Paradigm_Messaging.csproj", "{472AF346-B75B-407C-9574-7E752AC0CCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigm_Encapsulation", "Paradigm_Encapsulation\Paradigm_Encapsulation.csproj", "{2D82D3B9-F7DE-409C-B884-79796693B13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigm_Inheritance-Composition-Delegation", "Paradigm_Inheritance-Composition-Delegation\Paradigm_Inheritance-Composition-Delegation.csproj", "{99666BC1-57AC-470E-8A1A-FB547E3AED4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAD0635-D42E-4C31-A425-D452CAA706D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD0635-D42E-4C31-A425-D452CAA706D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD0635-D42E-4C31-A425-D452CAA706D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD0635-D42E-4C31-A425-D452CAA706D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C015C986-D337-425E-9CA5-D56E15AE51B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C015C986-D337-425E-9CA5-D56E15AE51B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C015C986-D337-425E-9CA5-D56E15AE51B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C015C986-D337-425E-9CA5-D56E15AE51B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472AF346-B75B-407C-9574-7E752AC0CCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472AF346-B75B-407C-9574-7E752AC0CCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472AF346-B75B-407C-9574-7E752AC0CCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472AF346-B75B-407C-9574-7E752AC0CCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D82D3B9-F7DE-409C-B884-79796693B13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D82D3B9-F7DE-409C-B884-79796693B13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D82D3B9-F7DE-409C-B884-79796693B13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D82D3B9-F7DE-409C-B884-79796693B13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99666BC1-57AC-470E-8A1A-FB547E3AED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99666BC1-57AC-470E-8A1A-FB547E3AED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99666BC1-57AC-470E-8A1A-FB547E3AED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99666BC1-57AC-470E-8A1A-FB547E3AED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
